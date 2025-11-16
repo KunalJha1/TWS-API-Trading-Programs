@@ -20,7 +20,7 @@ A streamlined set of Python based trading systems which combine:
   - RSI, Momentum, Stoch, Williams %R  
   - ADX + DI+/DI-, OBV, Volume Spike  
   - Heikin Ashi, Parabolic SAR, Pivot Points
- ![GUI Project Indicators](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png)
+![GUI Project Indicators](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png)
 - Summary per timeframe:
   - BUY / SELL / NEUTRAL counts  
   - Weighted “Overall” signal  
@@ -28,8 +28,7 @@ A streamlined set of Python based trading systems which combine:
   - Live pricing information using the TWS API
 - Built-in caching, async data fetching, CPU/RAM meter
   
-  You can find the full GUI here:
-  **[LIVE GUI Technical Analysis System](https://github.com/KunalJha1/TWS-API-Trading-Programs/tree/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code))** here.
+  You can find the full GUI here: **[LIVE GUI Technical Analysis System](https://github.com/KunalJha1/TWS-API-Trading-Programs/tree/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code))** here.
 
 
 ### 🔹 NQ Futures Scalping Bot
