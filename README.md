@@ -13,7 +13,6 @@ A streamlined set of Python based trading systems which combine:
 ### 🔹 Technical Analysis GUI (CustomTkinter)
 
 ![GUI Project](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project.png)
-
 - Multi-timeframe indicator engine:
   - 1m / 3m / 5m / 15m / 30m / 1h / 4h / 1d  
 - 20+ indicators including:
@@ -21,19 +20,14 @@ A streamlined set of Python based trading systems which combine:
   - RSI, Momentum, Stoch, Williams %R  
   - ADX + DI+/DI-, OBV, Volume Spike  
   - Heikin Ashi, Parabolic SAR, Pivot Points
-  
  ![GUI Project Indicators](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png)
-
-
 - Summary per timeframe:
   - BUY / SELL / NEUTRAL counts  
   - Weighted “Overall” signal  
 - Watchlist with:
   - Live pricing information using the TWS API
 - Built-in caching, async data fetching, CPU/RAM meter
-
   
-
   You can find the full GUI here:
   **[LIVE GUI Technical Analysis System](https://github.com/KunalJha1/TWS-API-Trading-Programs/tree/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code))** here.
 
