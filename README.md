@@ -16,11 +16,13 @@ A streamlined set of Python based trading systems which combine:
 - Multi-timeframe indicator engine:
   - 1m / 3m / 5m / 15m / 30m / 1h / 4h / 1d  
 - 20+ indicators including:
-  - EMA (6/21, 9/14), MACD Histogram, ATR  
-  - RSI, Momentum, Stoch, Williams %R  
-  - ADX + DI+/DI-, OBV, Volume Spike  
-  - Heikin Ashi, Parabolic SAR, Pivot Points
-![GUI Project Indicators](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png)
+    - EMA (6/21, 9/14), MACD Histogram, ATR  
+    - RSI, Momentum, Stoch, Williams %R  
+    - ADX + DI+/DI-, OBV, Volume Spike  
+    - Heikin Ashi, Parabolic SAR, Pivot Points  
+
+    <img src="https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png" width="650">
+
 - Summary per timeframe:
   - BUY / SELL / NEUTRAL counts  
   - Weighted “Overall” signal  
