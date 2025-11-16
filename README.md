@@ -21,7 +21,7 @@ A streamlined set of Python based trading systems which combine:
   - RSI, Momentum, Stoch, Williams %R  
   - ADX + DI+/DI-, OBV, Volume Spike  
   - Heikin Ashi, Parabolic SAR, Pivot Points  
-    <img src="https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png" width="1000"/>
+![GUI Project Indicators](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png)
 - **Summary per timeframe:**
   - BUY / SELL / NEUTRAL counts  
   - Weighted “Overall” signal  
