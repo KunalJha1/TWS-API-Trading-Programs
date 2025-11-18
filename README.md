@@ -36,6 +36,10 @@ Full source code: **[Technical Analysis GUI](https://github.com/KunalJha1/TWS-AP
 
 
 ### 🔹 NQ Futures Scalping Bot
+Full source code: [Live Scalping Strategy](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20(Scalping%20Strategy)%20(Redacted%20Code).py)
+
+
+
 - Connects to **IBKR TWS / Gateway**
 - Uses **2 years of data** for indicator calculations
 - Executes automated **LONG/SHORT** trades when conditions align  
@@ -47,8 +51,7 @@ Full source code: **[Technical Analysis GUI](https://github.com/KunalJha1/TWS-AP
   - Disconnect/reconnect events  
 - Logs every trade to CSV (entry/exit, gain %, timestamps)
 
-You can view the full scalping script here:  
-[Live Trading System (Scalping Strategy)](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20(Scalping%20Strategy)%20(Redacted%20Code).py)
+
 
 If you have anything you would like to talk about regarding this project please email me at kunal.jha@uwaterloo.ca. Please not all code inside of this repo will be complete as sections are redacted to keep trading strategies as secure as possible. 
 
