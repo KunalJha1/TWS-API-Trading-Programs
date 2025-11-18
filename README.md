@@ -2,10 +2,12 @@
 
 A streamlined set of Python based trading systems which combine:
 
+
+- **Real-time Technical Analysis GUI which includes a multi-timeframe indicator interface** with parallel processing & caching**
 - **Automated NQ futures trading** 
-- **Real-time Technical Analysis GUI which includes a multi-timeframe indicator interface** with parallel processing & caching**  
 - **Automated options volume & unusual activity scanner** with daily reports
-  
+- **Historical backtesting engine** for futures and equities strategies  
+
 ---
 
 ## 🚀 Features
@@ -62,6 +64,22 @@ Full source code: **[Options Scanner](https://github.com/KunalJha1/TWS-API-Tradi
 - Generates **4 CSV reports**: full dataset, Top 10 volume, Unusual volume, PCR  
 - Parallel processing for fast daily scans of option volume.
 - Sends a detailed **email summary + attachments** after every run of the program to clients. 
+
+### 🔹 Historical Backtesting Engine (NQ, ES, GC + Equities)
+Full source code: **[Backtesting System (IBKR TWS Historical)](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Backtesting%20Trading%20System%20(Redacted%20Code)/Backtesting%20System%20IBKR%20TWS%20Historical%20(Redacted%20Code).py)**
+
+![NQ Backtesting Results – Feb to Apr](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Backtesting%20Trading%20System%20(Redacted%20Code)/NQ%20Back%20Testing%20Results-%20Feb%20to%20Apr.png)
+
+- Uses **IBKR historical data** for CME futures (NQ, ES, GC) and equities/ETFs  
+- Runs a **rule-based strategy simulator** with trend-start, in-trend, and close-position logic  
+- Simulates **profit-target (≈1%) and stop-loss** behavior with trailing logic for long/short trades  
+- Starts from a fixed capital base (e.g., **$7,000**) and computes compounded returns over the test window  
+- Supports **combinatorial testing of indicator weight configurations**, evaluating thousands of combos per run  
+- Parallelized using Python `multiprocessing` to speed up multi-combo backtests  
+- Exports CSV summaries for:
+  - All tested configurations  
+  - Best-performing combo (with full trade log)  
+  - Worst-performing combo (for risk analysis)  
 
 If you have anything you would like to talk about regarding this project please email me at kunal.jha@uwaterloo.ca. Please not all code inside of this repo will be complete as sections are redacted to keep trading strategies as secure as possible. 
 
