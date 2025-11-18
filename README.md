@@ -39,8 +39,8 @@ Full source code: **[Technical Analysis GUI](https://github.com/KunalJha1/TWS-AP
 Full source code: [Live Scalping Strategy](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20(Scalping%20Strategy)%20(Redacted%20Code).py)
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20Scalping%20(Redacted%20Code)/Long%20Position%20Taken%20Scalp.png" width="48%">
-  <img src="https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20Scalping%20(Redacted%20Code)/Maintain%20Position%20Open%20Scalp.png" width="48%">
+  <img src="https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20Scalping%20(Redacted%20Code)/Long%20Position%20Taken%20Scalp.png" height="350">
+  <img src="https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20Scalping%20(Redacted%20Code)/Maintain%20Position%20Open%20Scalp.png" height="350">
 </div>
 
 - Connects to **IBKR TWS / Gateway**
