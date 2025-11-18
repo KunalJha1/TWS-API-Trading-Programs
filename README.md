@@ -38,14 +38,14 @@ Full source code: **[Technical Analysis GUI](https://github.com/KunalJha1/TWS-AP
 ### 🔹 NQ Futures Scalping Bot
 Full source code: [Live Scalping Strategy](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20(Scalping%20Strategy)%20(Redacted%20Code).py)
 
-![Open Long Position](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20Scalping%20(Redacted%20Code)/Open%20Long%20Position.png)
+![Open Position](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20Scalping%20(Redacted%20Code)/Open%20Position.png)
+![Dynamic Trailing Stop Loss and Profit Taker](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20Scalping%20(Redacted%20Code)/Dynamic%20Trailing%20Stop%20Loss%20and%20Profit%20Taker.png)
 
 - Connects to **IBKR TWS / Gateway**
 - Uses **2 years of data** for indicator calculations
 - Executes automated **LONG/SHORT** trades when conditions align  
 - Adaptive entry orders
 - Dynamic **trailing stop-loss** + **profit-taker**
-![Maintain Open Position](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/Live%20Trading%20System%20Scalping%20(Redacted%20Code)/Maintain%20Open%20Position.png)
 - Email alerts for:  
   - Entries  
   - Exits (profit-taker / stop-loss)  
