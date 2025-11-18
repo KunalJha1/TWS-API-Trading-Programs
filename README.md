@@ -2,9 +2,9 @@
 
 A streamlined set of Python based trading systems which combine:
 
-• **Automated NQ futures trading** 
-• **Real-time Technical Analysis GUI**
-• **Multi-timeframe indicator engine** with parallel processing & caching  
+- **Automated NQ futures trading** 
+- **Real-time Technical Analysis GUI**
+- **Multi-timeframe indicator engine** with parallel processing & caching  
 
 ---
 
