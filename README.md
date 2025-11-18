@@ -11,6 +11,7 @@ A streamlined set of Python based trading systems which combine:
 ## 🚀 Features
 
 ### 🔹 Technical Analysis GUI (CustomTkinter)
+Full source code: **[Technical Analysis GUI](https://github.com/KunalJha1/TWS-API-Trading-Programs/tree/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code))**
 
 ![GUI Project](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project.png)
 ![GUI Project Indicators](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png)
@@ -32,7 +33,7 @@ A streamlined set of Python based trading systems which combine:
   - Built-in caching  
   - Async historical data fetching  
   - CPU/RAM usage metrics  
-Full source code: **[LIVE GUI Technical Analysis System](https://github.com/KunalJha1/TWS-API-Trading-Programs/tree/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code))**
+
 
 ### 🔹 NQ Futures Scalping Bot
 - Connects to **IBKR TWS / Gateway**
