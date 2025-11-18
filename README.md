@@ -2,9 +2,9 @@
 
 A streamlined set of Python based trading systems which combine:
 
-- **Automated NQ futures trading** 
-- **Real-time Technical Analysis GUI**
-- **Multi-timeframe indicator engine** with parallel processing & caching  
+• **Automated NQ futures trading** 
+• **Real-time Technical Analysis GUI**
+• **Multi-timeframe indicator engine** with parallel processing & caching  
 
 ---
 
@@ -17,22 +17,22 @@ Full source code: **[Technical Analysis GUI](https://github.com/KunalJha1/TWS-AP
 ![GUI Project Indicators](https://github.com/KunalJha1/TWS-API-Trading-Programs/blob/main/LIVE%20GUI%20Technical%20Analysis%20System%20(Redacted%20Code)/GUI%20Project%20Indicators.png)
 
 - **Multi-timeframe indicator engine:**
-  - 1m / 3m / 5m / 15m / 30m / 1h / 4h / 1d  
+  • 1m / 3m / 5m / 15m / 30m / 1h / 4h / 1d  
 - **20+ indicators including:**
-  - EMA (6/21, 9/14), MACD Histogram, ATR  
-  - RSI, Momentum, Stoch, Williams %R  
-  - ADX + DI+/DI-, OBV, Volume Spike  
-  - Heikin Ashi, Parabolic SAR, Pivot Points  
+  • EMA (6/21, 9/14), MACD Histogram, ATR  
+  • RSI, Momentum, Stoch, Williams %R  
+  • ADX + DI+/DI-, OBV, Volume Spike  
+  • Heikin Ashi, Parabolic SAR, Pivot Points  
 
 - **Summary per timeframe:**
-  - BUY / SELL / NEUTRAL counts  
-  - Weighted “Overall” signal  
+  • BUY / SELL / NEUTRAL counts  
+  • Weighted “Overall” signal  
 - **Watchlist with:**
-  - Live pricing using the TWS API  
+  • Live pricing using the TWS API  
 - **Additional features:**
-  - Built-in caching  
-  - Async historical data fetching  
-  - CPU/RAM usage metrics  
+  • Built-in caching  
+  • Async historical data fetching  
+  • CPU/RAM usage metrics  
 
 
 ### 🔹 NQ Futures Scalping Bot
