@@ -3,7 +3,7 @@
 A streamlined set of Python based trading systems which combine:
 
 
-- **Real-time Technical Analysis GUI which includes a multi-timeframe indicator interface** with parallel processing & caching**
+- **Real-time Technical Analysis GUI which includes a multi-timeframe indicator interface** with parallel processing & caching
 - **Automated NQ futures trading** 
 - **Automated options volume & unusual activity scanner** with daily reports
 - **Historical backtesting engine** for futures and equities strategies  
