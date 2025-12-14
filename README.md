@@ -81,7 +81,7 @@ Full source code: **[Backtesting System (IBKR TWS Historical)](https://github.co
   - Best-performing combo (with full trade log)  
   - Worst-performing combo (for risk analysis)  
 
-If you have anything you would like to talk about regarding this project please email me at kunal.jha@uwaterloo.ca. Please not all code inside of this repo will be complete as sections are redacted to keep trading strategies as secure as possible. 
+If you have anything you would like to talk about regarding this project please email me at kunal.jha@uwaterloo.ca. Please note all code inside of this repo will be incomplete as sections are redacted to keep trading strategies secure. 
 
 ## Disclaimer
 This project is for educational and research purposes only. Futures, equities, and leveraged ETFs involve significant risk and may not be suitable for all investors. Nothing in this repository constitutes financial advice. Always test thoroughly using paper trading before deploying with real capital, and trade at your own risk.
